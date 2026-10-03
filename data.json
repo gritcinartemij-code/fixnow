@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "role": "client",
+      "name": "Демо клиент",
+      "phone": "",
+      "city": "Калининград"
+    },
+    {
+      "id": "m1",
+      "role": "master",
+      "name": "Алексей Петров",
+      "phone": "",
+      "city": "Калининград",
+      "category": "Сантехника",
+      "rating": 4.9,
+      "verified": true
+    },
+    {
+      "id": "m2",
+      "role": "master",
+      "name": "Андрей Смирнов",
+      "phone": "",
+      "city": "Калининград",
+      "category": "Электрика",
+      "rating": 4.9,
+      "verified": true
+    },
+    {
+      "id": "m3",
+      "role": "master",
+      "name": "Роман Волков",
+      "phone": "",
+      "city": "Калининград",
+      "category": "Замки и двери",
+      "rating": 4.8,
+      "verified": true
+    },
+    {
+      "id": "admin_demo",
+      "role": "admin",
+      "name": "FixNow Admin",
+      "phone": "79990000000",
+      "city": "Калининград",
+      "category": "",
+      "rating": 0,
+      "verified": true,
+      "passwordHash": "5217be5e3b0bb447a3f35d8203f9a20e1b3013bcedf6d018c6ddf52f144794c160a6e4e4153a0db476b14520ea78885dbf3e534813b2d567fdd58a5676f43112",
+      "passwordSalt": "a9f3910180f3971e7f804868fdbb7745",
+      "createdAt": "2026-10-03T15:17:40.282Z"
+    }
+  ],
+  "requests": [],
+  "messages": [],
+  "reviews": []
+}

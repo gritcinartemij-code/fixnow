@@ -1,0 +1,13 @@
+{
+  "name": "FixNow — ремонт рядом",
+  "short_name": "FixNow",
+  "description": "Найди проверенного мастера для ремонта рядом с тобой.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111827",
+  "lang": "ru",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
